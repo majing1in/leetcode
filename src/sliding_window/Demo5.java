@@ -10,6 +10,8 @@ public class Demo5 {
     }
 
     public static int characterReplacement(String s, int k) {
+        int target = 0;
 
+        return target;
     }
 }
