@@ -14,6 +14,16 @@ public class Demo4 {
         System.out.println(maxSatisfied);
     }
 
+    /**
+     * 思路：
+     * 1.先获得所有满意的数量
+     * 2.再获得最大长度产生的数量
+     * 3.最后前两步相加，减去在所得区间与全部满意的范围内重复相加的项
+     * @param customers
+     * @param grumpy
+     * @param X
+     * @return
+     */
     public static int maxSatisfied(int[] customers, int[] grumpy, int X) {
         int target = 0;
         if (customers.length == 0 || grumpy.length == 0) {
