@@ -3,7 +3,7 @@ package sliding_window;
 /**
  * 424. 替换后的最长重复字符
  */
-public class Demo5 {
+public class Code5_424_CharacterReplacement {
 
     public static void main(String[] args) {
         int replacement = characterReplacement("AABBB", 1);

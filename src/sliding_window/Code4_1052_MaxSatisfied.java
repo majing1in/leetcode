@@ -6,7 +6,7 @@ package sliding_window;
  * @Author: 马同学
  * @Date: 2020/12/20 0020 23:20
  */
-public class Demo4 {
+public class Code4_1052_MaxSatisfied {
 
     public static void main(String[] args) {
         int maxSatisfied = maxSatisfied(new int[]{4,10,10},

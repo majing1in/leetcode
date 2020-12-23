@@ -5,7 +5,7 @@ package sliding_window;
  * @Author: 马同学
  * @Date: 2020/12/20 0020 22:21
  */
-public class Demo2 {
+public class Code2_59_MaxSlidingWindow {
 
     public static void main(String[] args) {
         int[] ints = maxSlidingWindow(new int[]{1, 3, -1, -3, 5, 3, 6, 7}, 3);

@@ -5,7 +5,7 @@ package sliding_window;
  * @Author: 马同学
  * @Date: 2020/12/20 0020 18:44
  */
-public class Demo1 {
+public class Code1_53_MaxSubArray {
 
     /**
      * -2,1,-3,4,-1,2,1,-5,4

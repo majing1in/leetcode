@@ -7,7 +7,7 @@ import org.omg.PortableInterceptor.INACTIVE;
  * @Date: 2020/12/20 0020 22:35
  * 1004. 最大连续1的个数 III
  */
-public class Demo3 {
+public class Code3_1004_LongestOnes {
 
     public static void main(String[] args) {
         int longestOnes = longestOnes(new int[]{0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1}, 0);
