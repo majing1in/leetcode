@@ -4,6 +4,7 @@ package sliding_window;
  * 978. 最长湍流子数组
  * 执行用时: 4 ms
  * 内存消耗: 41.5 MB
+ * 无敌！
  */
 public class Code10_978_MaxTurbulenceSize {
 
