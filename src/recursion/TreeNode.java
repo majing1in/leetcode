@@ -1,4 +1,4 @@
-package recursion.code;
+package recursion;
 
 public class TreeNode {
     int val;

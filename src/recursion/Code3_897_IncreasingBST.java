@@ -1,4 +1,4 @@
-package recursion.code;
+package recursion;
 
 /**
  * @Author: 马同学

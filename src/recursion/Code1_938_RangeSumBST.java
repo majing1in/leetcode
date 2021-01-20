@@ -1,4 +1,4 @@
-package recursion.code;
+package recursion;
 
 public class Code1_938_RangeSumBST {
 
