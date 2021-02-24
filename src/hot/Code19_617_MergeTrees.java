@@ -1,6 +1,6 @@
 package hot;
 
-import recursion.TreeNode;
+import entity.TreeNode;
 
 public class Code19_617_MergeTrees {
 

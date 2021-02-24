@@ -1,6 +1,6 @@
 package hot;
 
-import recursion.TreeNode;
+import entity.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

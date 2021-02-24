@@ -1,5 +1,7 @@
 package recursion;
 
+import entity.TreeNode;
+
 public class Code2_104_MaxDepth {
 
     public int maxDepth(TreeNode root) {

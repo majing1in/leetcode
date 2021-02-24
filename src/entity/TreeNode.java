@@ -1,4 +1,4 @@
-package recursion;
+package entity;
 
 public class TreeNode {
     public int val;
