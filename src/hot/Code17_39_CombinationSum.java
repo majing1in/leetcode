@@ -13,8 +13,15 @@ public class Code17_39_CombinationSum {
 
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {
         ArrayList<List<Integer>> results = new ArrayList<>();
-        // TODO
+        if (candidates.length == 0) {
+            return results;
+        }
+
         return results;
+    }
+
+    public static void dfs() {
+
     }
 
 }
