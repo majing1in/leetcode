@@ -1,4 +1,4 @@
-package sliding_window;
+package hot;
 
 /**
  * 978. 最长湍流子数组
@@ -6,7 +6,7 @@ package sliding_window;
  * 内存消耗: 41.5 MB
  * 无敌！
  */
-public class Code10_978_MaxTurbulenceSize {
+public class Code52_978_MaxTurbulenceSize {
 
     // 9,4,2,10,7,8,8,1,9
     public static void main(String[] args) {

@@ -1,11 +1,11 @@
-package simple;
+package hot;
 
 /**
  * @Author Xiaoma
  * @Date 2021/2/28 0028 22:53
  * @Email 1468835254@qq.com
  */
-public class Code3_1672_MaximumWealth {
+public class Code35_1672_MaximumWealth {
 
     /**
      * 给你一个 m x n 的整数网格 accounts ，其中 accounts[i][j] 是第 i 位客户在第 j 家银行托管的资产数量。返回最富有客户所拥有的 资产总量 。

@@ -1,10 +1,9 @@
-package sliding_window;
+package hot;
 
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.stream.IntStream;
 
-public class Code9_面试题1718_ShortestSeq {
+public class Code51_面试题1718_ShortestSeq {
 
     public static void main(String[] args) {
         int[] seq = shortestSeq(new int[]{1, 1, 5, 9}, new int[]{1, 5, 9});

@@ -1,11 +1,11 @@
-package simple;
+package hot;
 
 /**
  * @Author Xiaoma
  * @Date 2021/2/28 0028 23:21
  * @Email 1468835254@qq.com
  */
-public class Code7_771_NumJewelsInStones {
+public class Code39_771_NumJewelsInStones {
 
     /**
      * 给定字符串J代表石头中宝石的类型，和字符串S代表你拥有的石头。S中每个字符代表了一种你拥有的石头的类型，你想知道你拥有的石头中有多少是宝石。

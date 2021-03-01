@@ -1,11 +1,11 @@
-package simple;
+package hot;
 
 /**
  * @Author Xiaoma
  * @Date 2021/2/28 0028 23:17
  * @Email 1468835254@qq.com
  */
-public class Code6_1512_NumIdenticalPairs {
+public class Code38_1512_NumIdenticalPairs {
 
     /**
      * 给你一个整数数组 nums 。

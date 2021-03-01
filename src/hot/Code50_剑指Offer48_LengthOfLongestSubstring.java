@@ -1,9 +1,9 @@
-package sliding_window;
+package hot;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Code7_剑指Offer48_LengthOfLongestSubstring {
+public class Code50_剑指Offer48_LengthOfLongestSubstring {
 
     public static void main(String[] args) {
         int length = lengthOfLongestSubstring("pwwke");

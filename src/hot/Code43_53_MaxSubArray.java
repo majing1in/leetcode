@@ -1,11 +1,11 @@
-package sliding_window;
+package hot;
 
 /**
  * 53. 最大子序和
  * @Author: 马同学
  * @Date: 2020/12/20 0020 18:44
  */
-public class Code1_53_MaxSubArray {
+public class Code43_53_MaxSubArray {
 
     /**
      * -2,1,-3,4,-1,2,1,-5,4

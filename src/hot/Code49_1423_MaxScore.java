@@ -1,6 +1,6 @@
-package sliding_window;
+package hot;
 
-public class Code8_1423_MaxScore {
+public class Code49_1423_MaxScore {
 
     public static void main(String[] args) {
         int maxScore = maxScore(new int[]{1, 2, 3, 4, 5, 6, 1}, 3);

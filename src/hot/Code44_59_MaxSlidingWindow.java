@@ -1,11 +1,11 @@
-package sliding_window;
+package hot;
 
 /**
  * 剑指 Offer 59 - I. 滑动窗口的最大值
  * @Author: 马同学
  * @Date: 2020/12/20 0020 22:21
  */
-public class Code2_59_MaxSlidingWindow {
+public class Code44_59_MaxSlidingWindow {
 
     public static void main(String[] args) {
         int[] ints = maxSlidingWindow(new int[]{1, 3, -1, -3, 5, 3, 6, 7}, 3);

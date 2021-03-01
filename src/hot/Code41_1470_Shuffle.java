@@ -1,11 +1,11 @@
-package simple;
+package hot;
 
 /**
  * @Author Xiaoma
  * @Date 2021/2/28 0028 23:36
  * @Email 1468835254@qq.com
  */
-public class Code9_1470_Shuffle {
+public class Code41_1470_Shuffle {
 
     /**
      * 给你一个数组 nums ，数组中有 2n 个元素，按 [x1,x2,...,xn,y1,y2,...,yn] 的格式排列。

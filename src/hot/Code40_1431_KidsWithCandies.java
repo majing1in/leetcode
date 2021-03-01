@@ -1,4 +1,4 @@
-package simple;
+package hot;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.List;
  * @Date 2021/2/28 0028 23:27
  * @Email 1468835254@qq.com
  */
-public class Code8_1431_KidsWithCandies {
+public class Code40_1431_KidsWithCandies {
 
     /**
      * 给你一个数组candies和一个整数extraCandies，其中candies[i]代表第 i 个孩子拥有的糖果数目。

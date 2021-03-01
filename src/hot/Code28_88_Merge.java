@@ -1,8 +1,8 @@
-package double_clip;
+package hot;
 
 import java.util.Arrays;
 
-public class Code2_88_Merge {
+public class Code28_88_Merge {
 
     public static void main(String[] args) {
 

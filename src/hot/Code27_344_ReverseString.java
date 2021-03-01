@@ -1,6 +1,6 @@
-package double_clip;
+package hot;
 
-public class Code3_344_ReverseString {
+public class Code27_344_ReverseString {
 
     public void reverseString(char[] s) {
         if (s.length == 0) {

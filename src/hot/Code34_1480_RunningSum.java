@@ -1,11 +1,11 @@
-package simple;
+package hot;
 
 /**
  * @Author Xiaoma
  * @Date 2021/2/28 0028 22:46
  * @Email 1468835254@qq.com
  */
-public class Code2_1480_RunningSum {
+public class Code34_1480_RunningSum {
 
     /**
      * 给你一个数组 nums 。数组「动态和」的计算公式为：runningSum[i] = sum(nums[0]…nums[i]) 。

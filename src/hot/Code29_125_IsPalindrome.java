@@ -1,6 +1,6 @@
-package double_clip;
+package hot;
 
-public class Code1_125_IsPalindrome {
+public class Code29_125_IsPalindrome {
 
     public static void main(String[] args) {
         boolean palindrome = isPalindrome("A man, a plan, a canal: Panama");

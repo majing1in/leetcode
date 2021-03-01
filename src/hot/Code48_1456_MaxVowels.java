@@ -1,9 +1,9 @@
-package sliding_window;
+package hot;
 
 /**
  * 1456. 定长子串中元音的最大数目
  */
-public class Code6_1456_MaxVowels {
+public class Code48_1456_MaxVowels {
 
     public static void main(String[] args) {
         int maxVowels = maxVowels("ibpbhixfiouhdljnjfflpapptrxgcomvnb", 33);

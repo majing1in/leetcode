@@ -1,8 +1,8 @@
-package recursion;
+package hot;
 
 import entity.TreeNode;
 
-public class Code2_104_MaxDepth {
+public class Code31_104_MaxDepth {
 
     public int maxDepth(TreeNode root) {
         if (root == null) {

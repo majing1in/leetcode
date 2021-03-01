@@ -1,8 +1,8 @@
-package recursion;
+package hot;
 
 import entity.TreeNode;
 
-public class Code1_938_RangeSumBST {
+public class Code30_938_RangeSumBST {
 
     private static int target = 0;
 

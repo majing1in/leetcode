@@ -1,11 +1,11 @@
-package simple;
+package hot;
 
 /**
  * @Author Xiaoma
  * @Date 2021/2/28 0028 22:29
  * @Email 1468835254@qq.com
  */
-public class Code1_896_IsMonotonic {
+public class Code33_896_IsMonotonic {
 
     public static void main(String[] args) {
         System.out.println(isMonotonic(new int[]{1,1,2}));
