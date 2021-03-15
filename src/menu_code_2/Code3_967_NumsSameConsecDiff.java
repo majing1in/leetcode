@@ -51,7 +51,9 @@ public class Code3_967_NumsSameConsecDiff {
             }
             return;
         }
+        // 循环添加数字
         for (int i = 0; i <= 9; i++) {
+            // 满足的数字进行下一次递归
             if (Math.abs(i - tar) == k) {
                 val.append(i);
                 dfs(n, k, i, val);
