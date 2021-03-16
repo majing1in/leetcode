@@ -1,6 +1,6 @@
 package menu_code_2;
 
-public class Code4_SearchMatrix_SearchMatrix {
+public class Code4_74_SearchMatrix {
 
     /**
      * 编写一个高效的算法来搜索mxn矩阵 matrix 中的一个目标值 target 。该矩阵具有以下特性：
