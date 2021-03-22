@@ -32,6 +32,7 @@ public class Code9_面试题0205_addTwoNumbers {
         char[] chars2 = num2.reverse().toString().toCharArray();
         StringBuilder builder = new StringBuilder();
         int cur = Math.max(chars2.length - 1, chars1.length - 1);
+
         int def = 0;
         while (cur >= 0) {
             int sum = def;
