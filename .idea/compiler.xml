@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="change-httpclient" />
+        <module name="geluofu-code" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="change-httpclient" target="8" />
+      <module name="geluofu-code" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
