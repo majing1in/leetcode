@@ -95,3 +95,14 @@ WHERE sid NOT IN (
     )
     GROUP BY sid
 )
+-- 检索01课程分数小于 60，按分数降序排列的学生信息
+SELECT t1.sid, t1.sname, t1.sbirth, t1.sgender, g1.score
+FROM student t1
+         INNER JOIN (
+    SELECT sid, score
+    FROM grade
+    WHERE cid = '01'
+      AND score < 60
+) g1
+                    ON t1.sid = g1.sid
+GROUP BY score DESC
